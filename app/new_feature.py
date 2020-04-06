@@ -1,2 +1,2 @@
 def announce():
-    return "Hello New World"
+    return "Hello World"
